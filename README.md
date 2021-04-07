@@ -1,0 +1,2 @@
+# salary
+first software idea 
